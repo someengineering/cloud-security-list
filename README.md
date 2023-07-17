@@ -1,0 +1,1 @@
+Cloud security engineers are notoriously overworked and under-resourced. This curated list has links to tools, frameworks and resources to make their lives easier. 

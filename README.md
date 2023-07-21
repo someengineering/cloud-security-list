@@ -22,12 +22,14 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
  - [Qualys](https://www.qualys.com/) | [LinkedIn](https://www.linkedin.com/company/qualys) | [QLYS](https://finance.yahoo.com/quote/QLYS)
  - [SentinelOne](https://www.sentinelone.com/) | [LinkedIn](https://www.linkedin.com/company/sentinelone) | [S](https://finance.yahoo.com/quote/S)
  - [Splunk](https://www.splunk.com/) | [LinkedIn](https://www.linkedin.com/company/splunk/) | [SPLK](https://finance.yahoo.com/quote/SPLK)
+ - [Tenable](https://www.tenable.com/) | [LinkedIn](https://www.linkedin.com/company/tenableinc) | [TENB](https://finance.yahoo.com/quote/TENB)
  - [Zscaler](https://www.zscaler.com/) | [LinkedIn](https://www.linkedin.com/company/zscaler/) | [ZS](https://finance.yahoo.com/quote/ZS)
 
 ## Private Vendors
 Venture-funded companies
 
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
+ - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
  - [GitGuardian](https://www.gitguardian.com/) | [LinkedIn](https://www.linkedin.com/company/gitguardian/) | [Crunchbase](https://www.crunchbase.com/organization/gitguardian)
  - [JupiterOne](https://www.jupiterone.com/) | [LinkedIn](https://www.linkedin.com/company/jupiterone/) | [Crunchbase](https://www.crunchbase.com/organization/jupiterone)

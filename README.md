@@ -39,6 +39,7 @@ Venture-funded companies
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
  - [Snyk](https://snyk.io/) | [LinkedIn](https://www.linkedin.com/company/snyk/) | [Crunchbase](https://www.crunchbase.com/organization/snyk)
+ - [Sonar](https://www.sonarsource.com/) | [LinkedIn](https://www.linkedin.com/company/sonarsource/) | [Crunchbase](https://www.crunchbase.com/organization/sonarsource)
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
 

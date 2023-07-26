@@ -16,6 +16,7 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
 
 These are vendors with publicly traded stocks. The links lead to a vendor's website, LinkedIn company page and the stock price on [Yahoo! Finance](https://finance.yahoo.com/). 
 
+ - [Check Point](https://www.checkpoint.com/) | [LinkedIn](https://www.linkedin.com/company/check-point-software-technologies/about/) | [CHKP](https://finance.yahoo.com/quote/CHKP/)
  -  [CrowdStrike](https://www.crowdstrike.com/) | [LinkedIn](https://www.linkedin.com/company/crowdstrike/) | [CRWD](https://finance.yahoo.com/quote/CRWD)
  - [Datadog](https://www.datadoghq.com/) | [LinkedIn](https://www.linkedin.com/company/datadog/about/) | [DDOG](https://finance.yahoo.com/quote/ddog)
  - [Palo Alto Networks](https://www.paloaltonetworks.com/) | [LinkedIn](https://www.linkedin.com/company/palo-alto-networks) | [PANW](https://finance.yahoo.com/quote/PANW)

@@ -21,6 +21,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
  - [Datadog](https://www.datadoghq.com/) | [LinkedIn](https://www.linkedin.com/company/datadog/about/) | [DDOG](https://finance.yahoo.com/quote/ddog)
  - [Palo Alto Networks](https://www.paloaltonetworks.com/) | [LinkedIn](https://www.linkedin.com/company/palo-alto-networks) | [PANW](https://finance.yahoo.com/quote/PANW)
  - [Qualys](https://www.qualys.com/) | [LinkedIn](https://www.linkedin.com/company/qualys) | [QLYS](https://finance.yahoo.com/quote/QLYS)
+ - [Radware](https://www.radware.com/) | [LinkedIn](https://www.linkedin.com/company/radware/about/) | [RDWR](https://finance.yahoo.com/quote/RDWR)
  - [SentinelOne](https://www.sentinelone.com/) | [LinkedIn](https://www.linkedin.com/company/sentinelone) | [S](https://finance.yahoo.com/quote/S)
  - [Splunk](https://www.splunk.com/) | [LinkedIn](https://www.linkedin.com/company/splunk/) | [SPLK](https://finance.yahoo.com/quote/SPLK)
  - [Tenable](https://www.tenable.com/) | [LinkedIn](https://www.linkedin.com/company/tenableinc) | [TENB](https://finance.yahoo.com/quote/TENB)

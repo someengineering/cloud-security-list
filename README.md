@@ -45,6 +45,9 @@ Venture-funded companies
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
 
+# Open Source Projects
+- [Falco](https://github.com/falcosecurity/falco)
+
 # Conferences
 
  - [Black Hat](https://www.blackhat.com/)

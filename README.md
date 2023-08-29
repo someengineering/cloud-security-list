@@ -33,6 +33,7 @@ Venture-funded companies
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
+ - [Dig Security](https://www.dig.security) | [LinkedIn](https://www.linkedin.com/company/dig-security/about/) | [Crunchbase](https://www.crunchbase.com/organization/dig-security)
  - [GitGuardian](https://www.gitguardian.com/) | [LinkedIn](https://www.linkedin.com/company/gitguardian/) | [Crunchbase](https://www.crunchbase.com/organization/gitguardian)
  - [JupiterOne](https://www.jupiterone.com/) | [LinkedIn](https://www.linkedin.com/company/jupiterone/) | [Crunchbase](https://www.crunchbase.com/organization/jupiterone)
  - [Lacework](https://www.lacework.com/) | [LinkedIn](https://www.linkedin.com/company/lacework/) | [Crunchbase](https://www.crunchbase.com/organization/lacework)

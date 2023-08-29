@@ -48,6 +48,12 @@ Venture-funded companies
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
 
+## Cloud Platforms
+Native security products offered by the major cloud platforms (AWS, GCP, Azure)
+
+### AWS
+- [AWS Security Hub](https://aws.amazon.com/security-hub/)
+
 # Open Source Projects
 - [Cloudquery](https://github.com/cloudquery/cloudquery)
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)

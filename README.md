@@ -69,13 +69,17 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 # Open Source Projects
 - [Checkov](https://github.com/bridgecrewio/checkov)
 - [Cloudquery](https://github.com/cloudquery/cloudquery)
+- [CloudSploit](https://github.com/aquasecurity/cloudsploit)
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 - [Falco](https://github.com/falcosecurity/falco)
+- [Prowler](https://github.com/prowler-cloud/prowler)
 - [Resoto](https://github.com/someengineering/resoto)
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 - [Steampipe](https://github.com/turbot/steampipe)
 - [tfsec](https://github.com/aquasecurity/tfsec)
 - [ThreatMapper](https://github.com/deepfence/threatmapper)
 - [trivy](https://github.com/aquasecurity/trivy)
+- [Wazuh](https://github.com/wazuh/wazuh)
 
 # Security Frameworks
 - [CIS Benchmarks List](https://www.cisecurity.org/cis-benchmarks)

@@ -52,6 +52,12 @@ Venture-funded companies
 Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 
 ### AWS
+- [Amazon Detective](https://aws.amazon.com/detective)
+- [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
+- [Amazon Security Lake](https://aws.amazon.com/security-lake)
+- [AWS Artifact](https://aws.amazon.com/artifact/)
+- [AWS Audit Manager](https://aws.amazon.com/audit-manager/)
+- [AWS Config](https://aws.amazon.com/config)
 - [AWS Security Hub](https://aws.amazon.com/security-hub/)
 - [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
 

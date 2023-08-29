@@ -62,10 +62,15 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
 
 # Open Source Projects
+- [Checkov](https://github.com/bridgecrewio/checkov)
 - [Cloudquery](https://github.com/cloudquery/cloudquery)
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 - [Falco](https://github.com/falcosecurity/falco)
 - [Resoto](https://github.com/someengineering/resoto)
+- [Steampipe](https://github.com/turbot/steampipe)
+- [tfsec](https://github.com/aquasecurity/tfsec)
+- [ThreatMapper](https://github.com/deepfence/threatmapper)
+- [trivy](https://github.com/aquasecurity/trivy)
 
 # Conferences
 

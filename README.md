@@ -17,7 +17,7 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
 These are vendors with publicly traded stocks. The links lead to a vendor's website, LinkedIn company page and the stock price on [Yahoo! Finance](https://finance.yahoo.com/). 
 
  - [Check Point](https://www.checkpoint.com/) | [LinkedIn](https://www.linkedin.com/company/check-point-software-technologies/about/) | [CHKP](https://finance.yahoo.com/quote/CHKP/)
- -  [CrowdStrike](https://www.crowdstrike.com/) | [LinkedIn](https://www.linkedin.com/company/crowdstrike/) | [CRWD](https://finance.yahoo.com/quote/CRWD)
+ - [CrowdStrike](https://www.crowdstrike.com/) | [LinkedIn](https://www.linkedin.com/company/crowdstrike/) | [CRWD](https://finance.yahoo.com/quote/CRWD)
  - [Datadog](https://www.datadoghq.com/) | [LinkedIn](https://www.linkedin.com/company/datadog/about/) | [DDOG](https://finance.yahoo.com/quote/ddog)
  - [Palo Alto Networks](https://www.paloaltonetworks.com/) | [LinkedIn](https://www.linkedin.com/company/palo-alto-networks) | [PANW](https://finance.yahoo.com/quote/PANW)
  - [Qualys](https://www.qualys.com/) | [LinkedIn](https://www.linkedin.com/company/qualys) | [QLYS](https://finance.yahoo.com/quote/QLYS)
@@ -51,6 +51,11 @@ Venture-funded companies
 ## Cloud Platforms
 Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 
+[AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+[GCP Shared responsibilities and shared fate on Google Cloud](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
+[Azure Shared Responsibility in the cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+[DigitalOcean Shared Responsibliity Model](https://www.digitalocean.com/security/shared-responsibility-model)
+
 ### AWS
 - [Amazon Detective](https://aws.amazon.com/detective)
 - [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
@@ -71,6 +76,14 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [tfsec](https://github.com/aquasecurity/tfsec)
 - [ThreatMapper](https://github.com/deepfence/threatmapper)
 - [trivy](https://github.com/aquasecurity/trivy)
+
+# Security Frameworks
+- [CIS Benchmarks List](https://www.cisecurity.org/cis-benchmarks)
+- [CIS AWS Benchmarks](https://www.cisecurity.org/benchmark/amazon_web_services)
+- [CIS Google Cloud Computing Platform Benchmarks](https://www.cisecurity.org/benchmark/google_cloud_computing_platform)
+- [CIS Microsoft Azure Benchmarks](https://www.cisecurity.org/benchmark/azure)
+- [CIS Oracle Cloud Benchmark](/www.cisecurity.org/benchmark/oracle_cloud)
+- [NIST Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 
 # Conferences
 

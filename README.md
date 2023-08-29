@@ -49,7 +49,10 @@ Venture-funded companies
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
 
 # Open Source Projects
+- [Cloudquery](https://github.com/cloudquery/cloudquery)
+- [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
 - [Falco](https://github.com/falcosecurity/falco)
+- [Resoto](https://github.com/someengineering/resoto)
 
 # Conferences
 

@@ -53,6 +53,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 
 ### AWS
 - [AWS Security Hub](https://aws.amazon.com/security-hub/)
+- [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
 
 # Open Source Projects
 - [Cloudquery](https://github.com/cloudquery/cloudquery)

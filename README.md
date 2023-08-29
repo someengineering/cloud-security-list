@@ -51,10 +51,10 @@ Venture-funded companies
 ## Cloud Platforms
 Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 
-[AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
-[GCP Shared responsibilities and shared fate on Google Cloud](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
-[Azure Shared Responsibility in the cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
-[DigitalOcean Shared Responsibliity Model](https://www.digitalocean.com/security/shared-responsibility-model)
+- [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [GCP Shared responsibilities and shared fate on Google Cloud](https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate)
+- [Azure Shared Responsibility in the cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+- [DigitalOcean Shared Responsibliity Model](https://www.digitalocean.com/security/shared-responsibility-model)
 
 ### AWS
 - [Amazon Detective](https://aws.amazon.com/detective)

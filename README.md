@@ -38,6 +38,7 @@ Venture-funded companies
  - [Lacework](https://www.lacework.com/) | [LinkedIn](https://www.linkedin.com/company/lacework/) | [Crunchbase](https://www.crunchbase.com/organization/lacework)
  - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
+ - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
  - [Snyk](https://snyk.io/) | [LinkedIn](https://www.linkedin.com/company/snyk/) | [Crunchbase](https://www.crunchbase.com/organization/snyk)

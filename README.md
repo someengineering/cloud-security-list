@@ -43,6 +43,7 @@ Venture-funded companies
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
+ - [Scrut Automation](https://www.scrut.io/) | [LinkedIn](https://www.linkedin.com/company/scrut-automation/) | [Crunchbase](https://www.crunchbase.com/organization/scrut-automation)
  - [Snyk](https://snyk.io/) | [LinkedIn](https://www.linkedin.com/company/snyk/) | [Crunchbase](https://www.crunchbase.com/organization/snyk)
  - [Sonar](https://www.sonarsource.com/) | [LinkedIn](https://www.linkedin.com/company/sonarsource/) | [Crunchbase](https://www.crunchbase.com/organization/sonarsource)
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)

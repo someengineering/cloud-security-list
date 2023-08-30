@@ -19,6 +19,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
  - [Check Point](https://www.checkpoint.com/) | [LinkedIn](https://www.linkedin.com/company/check-point-software-technologies/about/) | [CHKP](https://finance.yahoo.com/quote/CHKP/)
  - [CrowdStrike](https://www.crowdstrike.com/) | [LinkedIn](https://www.linkedin.com/company/crowdstrike/) | [CRWD](https://finance.yahoo.com/quote/CRWD)
  - [Datadog](https://www.datadoghq.com/) | [LinkedIn](https://www.linkedin.com/company/datadog/about/) | [DDOG](https://finance.yahoo.com/quote/ddog)
+ - [HashiCorp](https://www.hashicorp.com) | [LinkedIn](https://www.linkedin.com/company/hashicorp/) | [HCP](https://finance.yahoo.com/quote/HCP)
  - [Palo Alto Networks](https://www.paloaltonetworks.com/) | [LinkedIn](https://www.linkedin.com/company/palo-alto-networks) | [PANW](https://finance.yahoo.com/quote/PANW)
  - [Qualys](https://www.qualys.com/) | [LinkedIn](https://www.linkedin.com/company/qualys) | [QLYS](https://finance.yahoo.com/quote/QLYS)
  - [Radware](https://www.radware.com/) | [LinkedIn](https://www.linkedin.com/company/radware/about/) | [RDWR](https://finance.yahoo.com/quote/RDWR)

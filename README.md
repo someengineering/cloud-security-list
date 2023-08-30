@@ -38,6 +38,7 @@ Venture-funded companies
  - [JupiterOne](https://www.jupiterone.com/) | [LinkedIn](https://www.linkedin.com/company/jupiterone/) | [Crunchbase](https://www.crunchbase.com/organization/jupiterone)
  - [Lacework](https://www.lacework.com/) | [LinkedIn](https://www.linkedin.com/company/lacework/) | [Crunchbase](https://www.crunchbase.com/organization/lacework)
  - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
+ - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
@@ -57,7 +58,14 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Azure Shared Responsibility in the cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 - [DigitalOcean Shared Responsibliity Model](https://www.digitalocean.com/security/shared-responsibility-model)
 
+
+### GCP
+- [Chronicle Security Operations](https://chronicle.security)
+- [Chronicle SOAR](https://cloud.google.com/chronicle/docs/soar/overview-and-introduction/soar-overview)
+- [Chronicle SIEM](https://cloud.google.com/chronicle/docs/overview)
+
 ### AWS
+- [AWS Cloud Security](https://aws.amazon.com/security/)
 - [Amazon Detective](https://aws.amazon.com/detective)
 - [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
 - [Amazon Security Lake](https://aws.amazon.com/security-lake)
@@ -66,6 +74,14 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [AWS Config](https://aws.amazon.com/config)
 - [AWS Security Hub](https://aws.amazon.com/security-hub/)
 - [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+
+### Azure / Microsoft
+- [Azure Security](https://azure.microsoft.com/en-us/explore/security)
+- [Azure Policy](https://azure.microsoft.com/en-us/products/azure-policy/)
+- [Microsoft Compliance](https://learn.microsoft.com/en-us/compliance/)
+- [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/products/defender-for-cloud/)
+- [Microsoft Sentinel](https://www.microsoft.com/de-de/security/business/siem-and-xdr/microsoft-sentinel)
+
 
 # Open Source Projects
 - [Checkov](https://github.com/bridgecrewio/checkov)

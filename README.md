@@ -121,6 +121,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 
  - [Billington Cybersecurity Summit](https://billingtoncybersummit.com/)
  - [Black Hat](https://www.blackhat.com/)
+ - [Deutscher IT Security Congress](https://www.pco-online.de/kongress2023) [2023]
  - [fwd:cloudsec](https://fwdcloudsec.org)
  - [RSAC](https://www.rsaconference.com/)
    

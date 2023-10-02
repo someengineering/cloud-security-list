@@ -33,6 +33,7 @@ Venture-funded companies
 
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
  = [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
+ - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
  - [Dig Security](https://www.dig.security) | [LinkedIn](https://www.linkedin.com/company/dig-security/about/) | [Crunchbase](https://www.crunchbase.com/organization/dig-security)
@@ -45,7 +46,7 @@ Venture-funded companies
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
- = [Query](https://www.query.ai/) | [LinkedIn](https://www.linkedin.com/company/goquery/) | [Crunchbase](https://www.crunchbase.com/organization/query-ai)
+ - [Query](https://www.query.ai/) | [LinkedIn](https://www.linkedin.com/company/goquery/) | [Crunchbase](https://www.crunchbase.com/organization/query-ai)
  - [Pangea](https://pangea.cloud/) | [Linkedin](https://www.linkedin.com/company/pangea-cyber/) | [Crunchbase](https://www.crunchbase.com/organization/pengea)
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)

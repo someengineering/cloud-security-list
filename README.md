@@ -89,7 +89,6 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Microsoft Defender for Cloud](https://azure.microsoft.com/en-us/products/defender-for-cloud/)
 - [Microsoft Sentinel](https://www.microsoft.com/de-de/security/business/siem-and-xdr/microsoft-sentinel)
 
-
 # Open Source Projects
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 - [Cartography](https://github.com/lyft/cartography)
@@ -112,6 +111,14 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [trivy](https://github.com/aquasecurity/trivy)
 - [Wazuh](https://github.com/wazuh/wazuh)
 - [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)
+
+# Security Newsletters
+- [CloudSecList](https://cloudseclist.com), by [Marco Lancini](https://www.linkedin.com/in/marcolancini/)
+- [Frankly Speaking](https://franklyspeaking.substack.com), by [Frank Wang](https://www.linkedin.com/in/frankw1/)
+- [Securing the Cloud](https://www.linkedin.com/newsletters/securing-the-cloud-7085768785009274880/), by [Brandon Carroll](https://www.linkedin.com/in/brandoncarroll/)
+- [tl;dr sec](https://tldrsec.com), by [Clint Gibler](https://www.linkedin.com/in/clintgibler/)
+- [Venture in Security](https://ventureinsecurity.net), by [Ross Haleliuk](https://www.linkedin.com/in/rosshaleliuk/)
+  
 
 # Security Frameworks
 - [CIS Benchmarks List](https://www.cisecurity.org/cis-benchmarks)

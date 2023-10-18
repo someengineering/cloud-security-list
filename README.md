@@ -31,6 +31,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
 ## Private Vendors
 Venture-funded companies
 
+ - [Aikido](https://www.aikido.dev/) | [LinkedIn](https://www.linkedin.com/company/aikido-security/) | [Crunchbase](https://www.crunchbase.com/organization/aikido-security)
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
@@ -40,8 +41,10 @@ Venture-funded companies
  - [Endor Labs](https://pangea.cloud/) | [LinkedIn](https://www.linkedin.com/company/endorlabs/insights/) | [Crunchbase](https://www.crunchbase.com/organization/endor-labs)
  - [GitGuardian](https://www.gitguardian.com/) | [LinkedIn](https://www.linkedin.com/company/gitguardian/) | [Crunchbase](https://www.crunchbase.com/organization/gitguardian)
  - [JupiterOne](https://www.jupiterone.com/) | [LinkedIn](https://www.linkedin.com/company/jupiterone/) | [Crunchbase](https://www.crunchbase.com/organization/jupiterone)
+ - [Kloudle](https://kloudle.com/) | [LinkedIn](https://www.linkedin.com/company/kloudle/) | [Crunchbase](https://www.crunchbase.com/organization/kloudle)
  - [Lacework](https://www.lacework.com/) | [LinkedIn](https://www.linkedin.com/company/lacework/) | [Crunchbase](https://www.crunchbase.com/organization/lacework)
  - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
+ - [Lineaje](https://www.lineaje.dev/) | [LinkedIn](https://www.linkedin.com/company/lineaje/) | [Crunchbase](https://www.crunchbase.com/organization/lineaje)
  - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
@@ -53,6 +56,7 @@ Venture-funded companies
  - [Scrut Automation](https://www.scrut.io/) | [LinkedIn](https://www.linkedin.com/company/scrut-automation/) | [Crunchbase](https://www.crunchbase.com/organization/scrut-automation)
  - [Snyk](https://snyk.io/) | [LinkedIn](https://www.linkedin.com/company/snyk/) | [Crunchbase](https://www.crunchbase.com/organization/snyk)
  - [Sonar](https://www.sonarsource.com/) | [LinkedIn](https://www.linkedin.com/company/sonarsource/) | [Crunchbase](https://www.crunchbase.com/organization/sonarsource)
+ - [Sonrai Security)[https://sonraisecurity.com/] | [LinkedIn](https://www.linkedin.com/company/sonrai-security/) | [Crunchbase](https://www.crunchbase.com/organization/sonrai-security)
  - [Trellix](https://www.trellix.com/en-us/index.html) | [LinkedIn](https://www.linkedin.com/company/trellixsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/trellix)
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
@@ -135,4 +139,5 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
  - [Deutscher IT Security Congress](https://www.pco-online.de/kongress2023) [2023]
  - [fwd:cloudsec](https://fwdcloudsec.org)
  - [RSAC](https://www.rsaconference.com/)
+ - [Sector](https://www.blackhat.com/sector/)
    

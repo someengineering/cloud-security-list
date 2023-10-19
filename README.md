@@ -38,6 +38,8 @@ Venture-funded companies
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
  - [Dig Security](https://www.dig.security) | [LinkedIn](https://www.linkedin.com/company/dig-security/about/) | [Crunchbase](https://www.crunchbase.com/organization/dig-security)
+ - [Eureka Security](https://www.eureka.security/) | [LinkedIn](https://www.linkedin.com/company/eureka-security/) | [Crunchbase](https://www.crunchbase.com/organization/eureka-security)
+ - [Ermetic](https://ermetic.com/) | [LinkedIn](https://www.linkedin.com/company/ermetic/) | [Crunchbase](https://www.crunchbase.com/organization/ermetic) --> [acquired by Tenable](https://www.tenable.com/press-releases/tenable-completes-acquisition-of-ermetic)
  - [Endor Labs](https://pangea.cloud/) | [LinkedIn](https://www.linkedin.com/company/endorlabs/insights/) | [Crunchbase](https://www.crunchbase.com/organization/endor-labs)
  - [GitGuardian](https://www.gitguardian.com/) | [LinkedIn](https://www.linkedin.com/company/gitguardian/) | [Crunchbase](https://www.crunchbase.com/organization/gitguardian)
  - [JupiterOne](https://www.jupiterone.com/) | [LinkedIn](https://www.linkedin.com/company/jupiterone/) | [Crunchbase](https://www.crunchbase.com/organization/jupiterone)
@@ -57,8 +59,11 @@ Venture-funded companies
  - [Snyk](https://snyk.io/) | [LinkedIn](https://www.linkedin.com/company/snyk/) | [Crunchbase](https://www.crunchbase.com/organization/snyk)
  - [Sonar](https://www.sonarsource.com/) | [LinkedIn](https://www.linkedin.com/company/sonarsource/) | [Crunchbase](https://www.crunchbase.com/organization/sonarsource)
  - [Sonrai Security](https://sonraisecurity.com/) | [LinkedIn](https://www.linkedin.com/company/sonrai-security/) | [Crunchbase](https://www.crunchbase.com/organization/sonrai-security)
+ - [StrongDM](https://www.strongdm.com/) | [LinkedIn}(https://www.linkedin.com/company/strongdm/) | [Crunchbase](https://www.crunchbase.com/organization/strongdm)
  - [Trellix](https://www.trellix.com/en-us/index.html) | [LinkedIn](https://www.linkedin.com/company/trellixsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/trellix)
+ - [Twingate](https://www.twingate.com/) | [LinkedIn](https://www.linkedin.com/company/twingate/) | [Crunchbase](https://www.crunchbase.com/organization/twingate)
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)
+ - [Upwind](https://www.upwind.io/) | [LinkedIn](https://www.linkedin.com/company/upwindsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/upwind-security)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
 
 ## Cloud Platforms

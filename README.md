@@ -59,7 +59,7 @@ Venture-funded companies
  - [Snyk](https://snyk.io/) | [LinkedIn](https://www.linkedin.com/company/snyk/) | [Crunchbase](https://www.crunchbase.com/organization/snyk)
  - [Sonar](https://www.sonarsource.com/) | [LinkedIn](https://www.linkedin.com/company/sonarsource/) | [Crunchbase](https://www.crunchbase.com/organization/sonarsource)
  - [Sonrai Security](https://sonraisecurity.com/) | [LinkedIn](https://www.linkedin.com/company/sonrai-security/) | [Crunchbase](https://www.crunchbase.com/organization/sonrai-security)
- - [StrongDM](https://www.strongdm.com/) | [LinkedIn}(https://www.linkedin.com/company/strongdm/) | [Crunchbase](https://www.crunchbase.com/organization/strongdm)
+ - [StrongDM](https://www.strongdm.com/) | [LinkedIn](https://www.linkedin.com/company/strongdm/) | [Crunchbase](https://www.crunchbase.com/organization/strongdm)
  - [Trellix](https://www.trellix.com/en-us/index.html) | [LinkedIn](https://www.linkedin.com/company/trellixsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/trellix)
  - [Twingate](https://www.twingate.com/) | [LinkedIn](https://www.linkedin.com/company/twingate/) | [Crunchbase](https://www.crunchbase.com/organization/twingate)
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)

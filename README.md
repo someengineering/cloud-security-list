@@ -58,6 +58,7 @@ Venture-funded companies
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
  - [Query](https://www.query.ai/) | [LinkedIn](https://www.linkedin.com/company/goquery/) | [Crunchbase](https://www.crunchbase.com/organization/query-ai)
  - [Pangea](https://pangea.cloud/) | [Linkedin](https://www.linkedin.com/company/pangea-cyber/) | [Crunchbase](https://www.crunchbase.com/organization/pengea)
+ - [Prevasio](https://www.prevasio.io/) | [LinkedIn](https://www.linkedin.com/company/prevasio/) | [Crunchbase](https://www.crunchbase.com/organization/prevasio)
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
 - [Seemplicity](https://seemplicity.io/) | [LinkedIn](https://www.linkedin.com/company/seemplicity/) | [Crunchbase](https://www.crunchbase.com/organization/seemplicity)

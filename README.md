@@ -37,6 +37,7 @@ Venture-funded companies
  - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
  - [Cider Security](https://www.cidersecurity.io/) | [LinkedIn](https://www.linkedin.com/company/cider-security/) | [Crunchbase](https://www.crunchbase.com/organization/cider-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/company/press/2022/palo-alto-networks-completes-acquisition-of-cider-security)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
+ - [Darktrace](https://darktrace.com/) | [LinkedIn](https://www.linkedin.com/company/darktrace/) | [Crunchbase](https://www.crunchbase.com/organization/darktrace)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
  - [Dig Security](https://www.dig.security) | [LinkedIn](https://www.linkedin.com/company/dig-security/about/) | [Crunchbase](https://www.crunchbase.com/organization/dig-security)
  - [Eureka Security](https://www.eureka.security/) | [LinkedIn](https://www.linkedin.com/company/eureka-security/) | [Crunchbase](https://www.crunchbase.com/organization/eureka-security)
@@ -56,6 +57,7 @@ Venture-funded companies
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
+ - [OpsHelm](https://www.opshelm.com/) | [LinkedIn](https://www.linkedin.com/company/opshelm/) | [Crunchbase](https://www.crunchbase.com/organization/opshelm)
  - [Query](https://www.query.ai/) | [LinkedIn](https://www.linkedin.com/company/goquery/) | [Crunchbase](https://www.crunchbase.com/organization/query-ai)
  - [Pangea](https://pangea.cloud/) | [Linkedin](https://www.linkedin.com/company/pangea-cyber/) | [Crunchbase](https://www.crunchbase.com/organization/pengea)
  - [Prevasio](https://www.prevasio.io/) | [LinkedIn](https://www.linkedin.com/company/prevasio/) | [Crunchbase](https://www.crunchbase.com/organization/prevasio)
@@ -113,6 +115,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 - [Cartography](https://github.com/lyft/cartography)
 - [Checkov](https://github.com/bridgecrewio/checkov)
+- [Cloudbeat](https://github.com/elastic/cloudbeat)
 - [Cloudquery](https://github.com/cloudquery/cloudquery)
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit)
 - [DefectDojo](https://github.com/DefectDojo/django-DefectDojo)
@@ -132,6 +135,11 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Wazuh](https://github.com/wazuh/wazuh)
 - [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)
 
+# Security Resources
+- Nextdoor CSPM Evaluation Matrix [GitHub](https://github.com/Nextdoor/cspm_evaluation_matrix)
+- Simple CSPM - GCP CSPM using Google Sheets [GitHub](https://github.com/somethingnew2-0/SimpleCSPM)
+- Prisma Cloud Channel Resource [GitHub](https://github.com/PaloAltoNetworks/prisma_channel_resources#prisma-cloud-channel-resources)
+
 # Security Newsletters
 - [CloudSecList](https://cloudseclist.com) by [Marco Lancini](https://www.linkedin.com/in/marcolancini/)
 - [Frankly Speaking](https://franklyspeaking.substack.com) by [Frank Wang](https://www.linkedin.com/in/frankw1/)
@@ -139,7 +147,6 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [tl;dr sec](https://tldrsec.com) by [Clint Gibler](https://www.linkedin.com/in/clintgibler/)
 - [Venture in Security](https://ventureinsecurity.net) by [Ross Haleliuk](https://www.linkedin.com/in/rosshaleliuk/)
   
-
 # Security Frameworks
 - [CIS Benchmarks List](https://www.cisecurity.org/cis-benchmarks)
 - [CIS AWS Benchmarks](https://www.cisecurity.org/benchmark/amazon_web_services)
@@ -149,7 +156,6 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [NIST Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 
 # Conferences
-
  - [Billington Cybersecurity Summit](https://billingtoncybersummit.com/)
  - [Black Hat](https://www.blackhat.com/)
  - [Deutscher IT Security Congress](https://www.pco-online.de/kongress2023) [2023]

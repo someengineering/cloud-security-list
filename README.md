@@ -36,6 +36,7 @@ Venture-funded companies
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
  - [Cider Security](https://www.cidersecurity.io/) | [LinkedIn](https://www.linkedin.com/company/cider-security/) | [Crunchbase](https://www.crunchbase.com/organization/cider-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/company/press/2022/palo-alto-networks-completes-acquisition-of-cider-security)
+ - [Cyscale](https://cyscale.com) | [LinkedIn](https://www.linkedin.com/company/cyscale/) | [Crunchbase](https://www.crunchbase.com/organization/cyscale)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Darktrace](https://darktrace.com/) | [LinkedIn](https://www.linkedin.com/company/darktrace/) | [Crunchbase](https://www.crunchbase.com/organization/darktrace)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
@@ -54,12 +55,14 @@ Venture-funded companies
  - [Lineaje](https://www.lineaje.dev/) | [LinkedIn](https://www.linkedin.com/company/lineaje/) | [Crunchbase](https://www.crunchbase.com/organization/lineaje)
  - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
  - [Matano](https://matanosecurity.com/) | [LinkedIn](https://www.linkedin.com/company/matanolabs/) | [Crunchbase](https://www.crunchbase.com/organization/matano)
+ - [Metomic](https://metomic.io) | [LinkedIn](https://www.linkedin.com/company/metomic/) | [Crunchbase](https://www.crunchbase.com/organization/metomic)
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
  - [OpsHelm](https://www.opshelm.com/) | [LinkedIn](https://www.linkedin.com/company/opshelm/) | [Crunchbase](https://www.crunchbase.com/organization/opshelm)
  - [Query](https://www.query.ai/) | [LinkedIn](https://www.linkedin.com/company/goquery/) | [Crunchbase](https://www.crunchbase.com/organization/query-ai)
  - [Pangea](https://pangea.cloud/) | [Linkedin](https://www.linkedin.com/company/pangea-cyber/) | [Crunchbase](https://www.crunchbase.com/organization/pengea)
+ - [PingSafe](https://www.pingsafe.com) | [LinkedIn](https://www.linkedin.com/company/pingsafe/) | [Crunchbase](https://www.crunchbase.com/organization/pingsafe)
  - [Prevasio](https://www.prevasio.io/) | [LinkedIn](https://www.linkedin.com/company/prevasio/) | [Crunchbase](https://www.crunchbase.com/organization/prevasio)
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
@@ -77,7 +80,9 @@ Venture-funded companies
  - [Twingate](https://www.twingate.com/) | [LinkedIn](https://www.linkedin.com/company/twingate/) | [Crunchbase](https://www.crunchbase.com/organization/twingate)
  - [UpGuard](https://www.upguard.com/) | [LinkedIn](https://www.linkedin.com/company/upguard/) | [Crunchbase](https://www.crunchbase.com/organization/upguard)
  - [Upwind](https://www.upwind.io/) | [LinkedIn](https://www.linkedin.com/company/upwindsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/upwind-security)
+ - [Wazuh](https://wazuh.com) | [LinkedIn](https://www.linkedin.com/company/wazuh/) | [Crunchbase](https://www.crunchbase.com/organization/wazuh)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
+   
 
 ## Cloud Platforms
 Native security products offered by the major cloud platforms (AWS, GCP, Azure)
@@ -146,6 +151,9 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Securing the Cloud](https://www.linkedin.com/newsletters/securing-the-cloud-7085768785009274880/) by [Brandon Carroll](https://www.linkedin.com/in/brandoncarroll/)
 - [tl;dr sec](https://tldrsec.com) by [Clint Gibler](https://www.linkedin.com/in/clintgibler/)
 - [Venture in Security](https://ventureinsecurity.net) by [Ross Haleliuk](https://www.linkedin.com/in/rosshaleliuk/)
+
+# Security Podcasts
+- [Google Cloud Security Podcast](https://cloud.withgoogle.com/cloudsecurity/podcast/)
   
 # Security Frameworks
 - [CIS Benchmarks List](https://www.cisecurity.org/cis-benchmarks)

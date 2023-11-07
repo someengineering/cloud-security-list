@@ -31,8 +31,10 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
 ## Private Vendors
 Venture-funded companies
 
+ - [AccuKnox](https://www.accuknox.com/) | [LinkedIn](https://www.linkedin.com/company/accuknox/) | [Crunchbase](https://www.crunchbase.com/organization/accuknox)
  - [Aikido](https://www.aikido.dev/) | [LinkedIn](https://www.linkedin.com/company/aikido-security/) | [Crunchbase](https://www.crunchbase.com/organization/aikido-security)
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
+ - [Arnica](https://www.arnica.io/) | [LinkedIn](https://www.linkedin.com/company/arnica-io/) | [Crunchbase](https://www.crunchbase.com/organization/arnica-io)
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
  - [Cider Security](https://www.cidersecurity.io/) | [LinkedIn](https://www.linkedin.com/company/cider-security/) | [Crunchbase](https://www.crunchbase.com/organization/cider-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/company/press/2022/palo-alto-networks-completes-acquisition-of-cider-security)
@@ -77,8 +79,10 @@ Venture-funded companies
  - [Sonrai Security](https://sonraisecurity.com/) | [LinkedIn](https://www.linkedin.com/company/sonrai-security/) | [Crunchbase](https://www.crunchbase.com/organization/sonrai-security)
  - [Sophos](https://www.sophos.com/) | [LinkedIn](https://www.linkedin.com/company/sophos/) | [Crunchbase](https://www.crunchbase.com/organization/sophos)
  - [Soveren](https://soveren.io/) | [LinkedIn](https://www.linkedin.com/company/soveren-security/) | [Crunchbase](https://www.crunchbase.com/organization/soveren)
+ - [Spyderbat](https://www.spyderbat.com/) | [LinkedIn](https://www.linkedin.com/company/spyderbat/) | [Crunchbase](https://www.crunchbase.com/organization/spyderbat)
  - [StrongDM](https://www.strongdm.com/) | [LinkedIn](https://www.linkedin.com/company/strongdm/) | [Crunchbase](https://www.crunchbase.com/organization/strongdm)
  - [Sweet Security](https://www.sweet.security/) | [Linkedin](https://www.linkedin.com/company/sweet-security/) | [Crunchbase](https://www.crunchbase.com/organization/sweet-security)
+ - [Tigera](https://www.tigera.io/) | [LinkedIn](https://www.linkedin.com/company/tigera/) | [Crunchbase](https://www.crunchbase.com/organization/tigera)
  - [Tines](https://www.tines.com/) | [LinkedIn](https://www.linkedin.com/company/tines-io/) | [Crunchbase](https://www.crunchbase.com/organization/tines)
  - [Torq](https://torq.io/) | [LinkedIn](https://www.linkedin.com/company/torqio/) | [Crunchbase](https://www.crunchbase.com/organization/stackpulse)
  - [Trellix](https://www.trellix.com/en-us/index.html) | [LinkedIn](https://www.linkedin.com/company/trellixsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/trellix)
@@ -88,6 +92,10 @@ Venture-funded companies
  - [Wazuh](https://wazuh.com) | [LinkedIn](https://www.linkedin.com/company/wazuh/) | [Crunchbase](https://www.crunchbase.com/organization/wazuh)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
    
+
+## Managed Service Providers
+
+-  [Red Canary](https://redcanary.com/) | [LinkedIn](https://www.linkedin.com/company/redcanary/) | [Crunchbase](https://www.crunchbase.com/organization/red-canary)
 
 ## Cloud Platforms
 Native security products offered by the major cloud platforms (AWS, GCP, Azure)
@@ -125,6 +133,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 - [Cartography](https://github.com/lyft/cartography)
 - [Checkov](https://github.com/bridgecrewio/checkov)
+- [Cilium](https://github.com/cilium/)
 - [Cloudbeat](https://github.com/elastic/cloudbeat)
 - [Cloudquery](https://github.com/cloudquery/cloudquery)
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit)
@@ -132,6 +141,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Falco](https://github.com/falcosecurity/falco)
 - [Gapps](https://github.com/bmarsh9/gapps)
 - [Greenbone OpenVAS Scanner](https://github.com/greenbone/openvas-scanner)
+- [KubeArmor](https://github.com/kubearmor/KubeArmor)
 - [Magpie](https://github.com/openraven/magpie)
 - [Prowler](https://github.com/prowler-cloud/prowler)
 - [Resoto](https://github.com/someengineering/resoto)
@@ -149,6 +159,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - Nextdoor CSPM Evaluation Matrix [GitHub](https://github.com/Nextdoor/cspm_evaluation_matrix)
 - Simple CSPM - GCP CSPM using Google Sheets [GitHub](https://github.com/somethingnew2-0/SimpleCSPM)
 - Prisma Cloud Channel Resource [GitHub](https://github.com/PaloAltoNetworks/prisma_channel_resources#prisma-cloud-channel-resources)
+- What is eBPF? (eBPF Docs)[https://ebpf.io/what-is-ebpf/]
 
 # Security Newsletters
 - [CloudSecList](https://cloudseclist.com) by [Marco Lancini](https://www.linkedin.com/in/marcolancini/)

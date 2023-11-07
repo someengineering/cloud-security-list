@@ -179,6 +179,9 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [CIS Oracle Cloud Benchmark](/www.cisecurity.org/benchmark/oracle_cloud)
 - [NIST Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 
+# Cyber Insurance
+- [Anzen](https://www.anzen.com/) | [LinkedIn](https://www.linkedin.com/company/goanzen/)
+
 # Conferences
  - [Billington Cybersecurity Summit](https://billingtoncybersummit.com/)
  - [Black Hat](https://www.blackhat.com/)

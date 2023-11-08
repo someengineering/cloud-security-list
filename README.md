@@ -26,6 +26,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
  - [SentinelOne](https://www.sentinelone.com/) | [LinkedIn](https://www.linkedin.com/company/sentinelone) | [S](https://finance.yahoo.com/quote/S)
  - [Splunk](https://www.splunk.com/) | [LinkedIn](https://www.linkedin.com/company/splunk/) | [SPLK](https://finance.yahoo.com/quote/SPLK)
  - [Tenable](https://www.tenable.com/) | [LinkedIn](https://www.linkedin.com/company/tenableinc) | [TENB](https://finance.yahoo.com/quote/TENB)
+ - [Varonis](https://www.varonis.com/) | [LinkedIn](https://www.linkedin.com/company/varonis/) | [VRNS](https://finance.yahoo.com/quote/VRNS/)
  - [Zscaler](https://www.zscaler.com/) | [LinkedIn](https://www.linkedin.com/company/zscaler/) | [ZS](https://finance.yahoo.com/quote/ZS)
 
 ## Private Vendors
@@ -38,6 +39,7 @@ Venture-funded companies
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
  - [Cider Security](https://www.cidersecurity.io/) | [LinkedIn](https://www.linkedin.com/company/cider-security/) | [Crunchbase](https://www.crunchbase.com/organization/cider-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/company/press/2022/palo-alto-networks-completes-acquisition-of-cider-security)
+ - [Cyera](https://www.cyera.io/) | [LinkedIn](https://www.linkedin.com/company/cyera/) | [Crunchbase](https://www.crunchbase.com/organization/cyera)
  - [Cyscale](https://cyscale.com) | [LinkedIn](https://www.linkedin.com/company/cyscale/) | [Crunchbase](https://www.crunchbase.com/organization/cyscale)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Darktrace](https://darktrace.com/) | [LinkedIn](https://www.linkedin.com/company/darktrace/) | [Crunchbase](https://www.crunchbase.com/organization/darktrace)
@@ -72,6 +74,7 @@ Venture-funded companies
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
  - [Seemplicity](https://seemplicity.io/) | [LinkedIn](https://www.linkedin.com/company/seemplicity/) | [Crunchbase](https://www.crunchbase.com/organization/seemplicity)
+ - [Sentra](https://www.sentra.io/) | [LinkedIn](https://www.linkedin.com/company/sentra-io/) | [Crunchbase]
  - [Scrut Automation](https://www.scrut.io/) | [LinkedIn](https://www.linkedin.com/company/scrut-automation/) | [Crunchbase](https://www.crunchbase.com/organization/scrut-automation)
  - [Slauth](https://www.slauth.io) | [LinkedIn](https://www.linkedin.com/company/slauth-io/) | [Crunchbase](https://www.crunchbase.com/organization/slauth-io)
  - [Snyk](https://snyk.io/) | [LinkedIn](https://www.linkedin.com/company/snyk/) | [Crunchbase](https://www.crunchbase.com/organization/snyk)
@@ -154,6 +157,10 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [trivy](https://github.com/aquasecurity/trivy)
 - [Wazuh](https://github.com/wazuh/wazuh)
 - [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)
+
+# Security Categories
+- CSPM - Cloud Security Posture Management
+- DSPM - Data Security Posture Management
 
 # Security Resources
 - Nextdoor CSPM Evaluation Matrix [GitHub](https://github.com/Nextdoor/cspm_evaluation_matrix)

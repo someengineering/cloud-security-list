@@ -167,6 +167,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - Simple CSPM - GCP CSPM using Google Sheets [GitHub](https://github.com/somethingnew2-0/SimpleCSPM)
 - Prisma Cloud Channel Resource [GitHub](https://github.com/PaloAltoNetworks/prisma_channel_resources#prisma-cloud-channel-resources)
 - What is eBPF? [eBPF Docs](https://ebpf.io/what-is-ebpf/)
+- Building a Security Graph Application on Amazon Neptune [GitHub](https://github.com/aws/graph-notebook/blob/main/src/graph_notebook/notebooks/03-Sample-Applications/04-Security-Graphs/01-Building-a-Security-Graph-Application-with-openCypher.ipynb)
 
 # Security Newsletters
 - [CloudSecList](https://cloudseclist.com) by [Marco Lancini](https://www.linkedin.com/in/marcolancini/)

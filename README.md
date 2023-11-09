@@ -133,6 +133,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Microsoft Sentinel](https://www.microsoft.com/de-de/security/business/siem-and-xdr/microsoft-sentinel)
 
 # Open Source Projects
+- [Altimeter](https://github.com/tableau/altimeter)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 - [Cartography](https://github.com/lyft/cartography)
 - [Checkov](https://github.com/bridgecrewio/checkov)

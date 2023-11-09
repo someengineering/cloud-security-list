@@ -70,6 +70,7 @@ Venture-funded companies
  - [OpsHelm](https://www.opshelm.com/) | [LinkedIn](https://www.linkedin.com/company/opshelm/) | [Crunchbase](https://www.crunchbase.com/organization/opshelm)
  - [Query](https://www.query.ai/) | [LinkedIn](https://www.linkedin.com/company/goquery/) | [Crunchbase](https://www.crunchbase.com/organization/query-ai)
  - [Pangea](https://pangea.cloud/) | [Linkedin](https://www.linkedin.com/company/pangea-cyber/) | [Crunchbase](https://www.crunchbase.com/organization/pengea)
+ - [Permiso](https://permiso.io/) | [LinkedIn](https://www.linkedin.com/company/permiso-security/) | [Crunchbase](https://www.crunchbase.com/organization/permiso-security)
  - [PingSafe](https://www.pingsafe.com) | [LinkedIn](https://www.linkedin.com/company/pingsafe/) | [Crunchbase](https://www.crunchbase.com/organization/pingsafe)
  - [Prevasio](https://www.prevasio.io/) | [LinkedIn](https://www.linkedin.com/company/prevasio/) | [Crunchbase](https://www.crunchbase.com/organization/prevasio)
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)

@@ -62,6 +62,7 @@ Venture-funded companies
  - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
  - [Matano](https://matanosecurity.com/) | [LinkedIn](https://www.linkedin.com/company/matanolabs/) | [Crunchbase](https://www.crunchbase.com/organization/matano)
  - [Metomic](https://metomic.io) | [LinkedIn](https://www.linkedin.com/company/metomic/) | [Crunchbase](https://www.crunchbase.com/organization/metomic)
+ - [Netwrix](https://www.netwrix.com/) | [LinkedIn](https://www.linkedin.com/company/netwrix-corporation/) | [Crunchbase](https://www.crunchbase.com/organization/netwrix)
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
  - [OpenRaven](https://www.openraven.com) | [Linkedin](https://www.linkedin.com/company/open-raven/) | [Crunchbase](https://www.crunchbase.com/organization/open-raven) 

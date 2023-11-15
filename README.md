@@ -37,16 +37,12 @@ Venture-funded companies
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
  - [Arnica](https://www.arnica.io/) | [LinkedIn](https://www.linkedin.com/company/arnica-io/) | [Crunchbase](https://www.crunchbase.com/organization/arnica-io)
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
- - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
- - [Cider Security](https://www.cidersecurity.io/) | [LinkedIn](https://www.linkedin.com/company/cider-security/) | [Crunchbase](https://www.crunchbase.com/organization/cider-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/company/press/2022/palo-alto-networks-completes-acquisition-of-cider-security)
  - [Cyera](https://www.cyera.io/) | [LinkedIn](https://www.linkedin.com/company/cyera/) | [Crunchbase](https://www.crunchbase.com/organization/cyera)
  - [Cyscale](https://cyscale.com) | [LinkedIn](https://www.linkedin.com/company/cyscale/) | [Crunchbase](https://www.crunchbase.com/organization/cyscale)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Darktrace](https://darktrace.com/) | [LinkedIn](https://www.linkedin.com/company/darktrace/) | [Crunchbase](https://www.crunchbase.com/organization/darktrace)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
- - [Dig Security](https://www.dig.security) | [LinkedIn](https://www.linkedin.com/company/dig-security/about/) | [Crunchbase](https://www.crunchbase.com/organization/dig-security)
  - [Eureka Security](https://www.eureka.security/) | [LinkedIn](https://www.linkedin.com/company/eureka-security/) | [Crunchbase](https://www.crunchbase.com/organization/eureka-security)
- - [Ermetic](https://ermetic.com/) | [LinkedIn](https://www.linkedin.com/company/ermetic/) | [Crunchbase](https://www.crunchbase.com/organization/ermetic) --> [acquired by Tenable](https://www.tenable.com/press-releases/tenable-completes-acquisition-of-ermetic)
  - [Endor Labs](https://pangea.cloud/) | [LinkedIn](https://www.linkedin.com/company/endorlabs/insights/) | [Crunchbase](https://www.crunchbase.com/organization/endor-labs)
  - [Entro](https://entro.security) | [LinkedIn](https://www.linkedin.com/company/entro-security/) | [Crunchbase](https://www.crunchbase.com/organization/entro-cf4f)
  - [GitGuardian](https://www.gitguardian.com/) | [LinkedIn](https://www.linkedin.com/company/gitguardian/) | [Crunchbase](https://www.crunchbase.com/organization/gitguardian)
@@ -55,11 +51,8 @@ Venture-funded companies
  - [JupiterOne](https://www.jupiterone.com/) | [LinkedIn](https://www.linkedin.com/company/jupiterone/) | [Crunchbase](https://www.crunchbase.com/organization/jupiterone)
  - [Kloudle](https://kloudle.com/) | [LinkedIn](https://www.linkedin.com/company/kloudle/) | [Crunchbase](https://www.crunchbase.com/organization/kloudle)
  - [Lacework](https://www.lacework.com/) | [LinkedIn](https://www.linkedin.com/company/lacework/) | [Crunchbase](https://www.crunchbase.com/organization/lacework)
- - [Laminar](https://laminarsecurity.com) | [LinkedIn](https://www.linkedin.com/company/laminar-security/) | [Crunchbase](https://www.crunchbase.com/organization/laminar-d49d) --> [acquired by Rubrik](https://www.rubrik.com/blog/company/23/8/rubrik-and-laminar-together-securing-the-worlds-data)
  - [Lightlytics](https://www.lightlytics.com/) | [LinkedIn](https://www.linkedin.com/company/lightlytics/) | [Crunchbase](https://www.crunchbase.com/organization/lightlytics)
- - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
  - [Lineaje](https://www.lineaje.dev/) | [LinkedIn](https://www.linkedin.com/company/lineaje/) | [Crunchbase](https://www.crunchbase.com/organization/lineaje)
- - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
  - [Matano](https://matanosecurity.com/) | [LinkedIn](https://www.linkedin.com/company/matanolabs/) | [Crunchbase](https://www.crunchbase.com/organization/matano)
  - [Metomic](https://metomic.io) | [LinkedIn](https://www.linkedin.com/company/metomic/) | [Crunchbase](https://www.crunchbase.com/organization/metomic)
  - [Netwrix](https://www.netwrix.com/) | [LinkedIn](https://www.linkedin.com/company/netwrix-corporation/) | [Crunchbase](https://www.crunchbase.com/organization/netwrix)
@@ -97,6 +90,17 @@ Venture-funded companies
  - [Wazuh](https://wazuh.com) | [LinkedIn](https://www.linkedin.com/company/wazuh/) | [Crunchbase](https://www.crunchbase.com/organization/wazuh)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
    
+
+## Acquisitions
+
+ - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
+ - [Cider Security](https://www.cidersecurity.io/) | [LinkedIn](https://www.linkedin.com/company/cider-security/) | [Crunchbase](https://www.crunchbase.com/organization/cider-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/company/press/2022/palo-alto-networks-completes-acquisition-of-cider-security)
+- [Dig Security](https://www.dig.security) | [LinkedIn](https://www.linkedin.com/company/dig-security/about/) | [Crunchbase](https://www.crunchbase.com/organization/dig-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/blog/2023/10/palo-alto-networks-dig-security/)
+ - [Ermetic](https://ermetic.com/) | [LinkedIn](https://www.linkedin.com/company/ermetic/) | [Crunchbase](https://www.crunchbase.com/organization/ermetic) --> [acquired by Tenable](https://www.tenable.com/press-releases/tenable-completes-acquisition-of-ermetic)
+ - [Laminar](https://laminarsecurity.com) | [LinkedIn](https://www.linkedin.com/company/laminar-security/) | [Crunchbase](https://www.crunchbase.com/organization/laminar-d49d) --> [acquired by Rubrik](https://www.rubrik.com/blog/company/23/8/rubrik-and-laminar-together-securing-the-worlds-data)
+ - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
+ - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
+
 
 ## Managed Service Providers
 

@@ -68,6 +68,7 @@ Venture-funded companies
  - [Prevasio](https://www.prevasio.io/) | [LinkedIn](https://www.linkedin.com/company/prevasio/) | [Crunchbase](https://www.crunchbase.com/organization/prevasio)
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
+ - [RunReveal](https://runreveal.com) | [LinkedIn](https://www.linkedin.com/company/runreveal/) | [Crunchbase](https://www.crunchbase.com/organization/runreveal)
  - [Seemplicity](https://seemplicity.io/) | [LinkedIn](https://www.linkedin.com/company/seemplicity/) | [Crunchbase](https://www.crunchbase.com/organization/seemplicity)
  - [Sentra](https://www.sentra.io/) | [LinkedIn](https://www.linkedin.com/company/sentra-io/) | [Crunchbase](https://www.crunchbase.com/organization/sentra)
  - [Scrut Automation](https://www.scrut.io/) | [LinkedIn](https://www.linkedin.com/company/scrut-automation/) | [Crunchbase](https://www.crunchbase.com/organization/scrut-automation)

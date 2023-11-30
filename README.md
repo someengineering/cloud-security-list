@@ -37,6 +37,7 @@ Venture-funded companies
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
  - [Arnica](https://www.arnica.io/) | [LinkedIn](https://www.linkedin.com/company/arnica-io/) | [Crunchbase](https://www.crunchbase.com/organization/arnica-io)
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
+ - [Avalor](https://www.avalor.io) | [LinkedIn](https://www.linkedin.com/company/avalorsec/) | [Crunchbase](https://www.crunchbase.com/organization/avalor-72e5)
  - [Cyera](https://www.cyera.io/) | [LinkedIn](https://www.linkedin.com/company/cyera/) | [Crunchbase](https://www.crunchbase.com/organization/cyera)
  - [Cyscale](https://cyscale.com) | [LinkedIn](https://www.linkedin.com/company/cyscale/) | [Crunchbase](https://www.crunchbase.com/organization/cyscale)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)

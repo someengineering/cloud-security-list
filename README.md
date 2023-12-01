@@ -168,6 +168,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud)
 
 # Security Categories / Glossary
+- ASPM - Application Security Posture Management
 - CAASM - Cyber Asset Attack Surface Management
 - CASB - Cloud Access Security Brokers
 - CIEM - Cloud Infrastructure Entitlement Management
@@ -175,11 +176,15 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - CSPM - Cloud Security Posture Management
 - CWPP - Cloud Workload Protection Platform
 - DSPM - Data Security Posture Management
+- EDR - Endpoint Detection and Response 
 - GRC - Governance, Risk and Compliance
 - IGA - Identity Governance Administration
+- MDR - Managed Detection and Response
 - PAM - Privileged Access Management
 - SIEM - Security Information and Event Management
 - SOAR - Security Orchestration, Automation and Response
+- SOC - Security Operations Center
+- XDR - Extended Detection and Response
 
 # Security Resources
 - Nextdoor CSPM Evaluation Matrix [GitHub](https://github.com/Nextdoor/cspm_evaluation_matrix)

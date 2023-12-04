@@ -201,7 +201,11 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Venture in Security](https://ventureinsecurity.net) by [Ross Haleliuk](https://www.linkedin.com/in/rosshaleliuk/)
 
 # Security Podcasts
+- [CISO Tradecraft](https://www.youtube.com/channel/UCrCV8M_HEjR-8aBsOeNBDXQ)
+- [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=ML-_5zrpTHy1VKjWsnPeIw&dl_branch=1&nd=1)
 - [Google Cloud Security Podcast](https://cloud.withgoogle.com/cloudsecurity/podcast/)
+- [HackingHumans](https://open.spotify.com/show/0EhUctIPJiKrxPjzqIAuDc)
+- [Smashing Security](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S)
   
 # Security Frameworks
 - [CIS Benchmarks List](https://www.cisecurity.org/cis-benchmarks)

@@ -35,6 +35,7 @@ Venture-funded companies
  - [AccuKnox](https://www.accuknox.com/) | [LinkedIn](https://www.linkedin.com/company/accuknox/) | [Crunchbase](https://www.crunchbase.com/organization/accuknox)
  - [Aikido](https://www.aikido.dev/) | [LinkedIn](https://www.linkedin.com/company/aikido-security/) | [Crunchbase](https://www.crunchbase.com/organization/aikido-security)
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
+ - [ARMO](https://www.armosec.io/) | [LinkedIn](https://www.linkedin.com/company/armosec/) | [Crunchbase](https://www.crunchbase.com/organization/cyber-armor)
  - [Arnica](https://www.arnica.io/) | [LinkedIn](https://www.linkedin.com/company/arnica-io/) | [Crunchbase](https://www.crunchbase.com/organization/arnica-io)
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Avalor](https://www.avalor.io) | [LinkedIn](https://www.linkedin.com/company/avalorsec/) | [Crunchbase](https://www.crunchbase.com/organization/avalor-72e5)
@@ -154,6 +155,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Gapps](https://github.com/bmarsh9/gapps)
 - [Greenbone OpenVAS Scanner](https://github.com/greenbone/openvas-scanner)
 - [KubeArmor](https://github.com/kubearmor/KubeArmor)
+- [Kubescape](https://github.com/kubescape)
 - [Magpie](https://github.com/openraven/magpie)
 - [Prowler](https://github.com/prowler-cloud/prowler)
 - [Resoto](https://github.com/someengineering/resoto)
@@ -179,6 +181,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - EDR - Endpoint Detection and Response 
 - GRC - Governance, Risk and Compliance
 - IGA - Identity Governance Administration
+- KSPM - Kubernetes Security Posture Management
 - MDR - Managed Detection and Response
 - PAM - Privileged Access Management
 - SIEM - Security Information and Event Management

@@ -35,6 +35,7 @@ Venture-funded companies
  - [AccuKnox](https://www.accuknox.com/) | [LinkedIn](https://www.linkedin.com/company/accuknox/) | [Crunchbase](https://www.crunchbase.com/organization/accuknox)
  - [Aikido](https://www.aikido.dev/) | [LinkedIn](https://www.linkedin.com/company/aikido-security/) | [Crunchbase](https://www.crunchbase.com/organization/aikido-security)
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
+ - [ARMO](https://www.armosec.io/) | [LinkedIn](https://www.linkedin.com/company/armosec/) | [Crunchbase](https://www.crunchbase.com/organization/cyber-armor)
  - [Arnica](https://www.arnica.io/) | [LinkedIn](https://www.linkedin.com/company/arnica-io/) | [Crunchbase](https://www.crunchbase.com/organization/arnica-io)
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Avalor](https://www.avalor.io) | [LinkedIn](https://www.linkedin.com/company/avalorsec/) | [Crunchbase](https://www.crunchbase.com/organization/avalor-72e5)

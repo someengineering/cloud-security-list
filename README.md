@@ -47,6 +47,7 @@ Venture-funded companies
  - [Eureka Security](https://www.eureka.security/) | [LinkedIn](https://www.linkedin.com/company/eureka-security/) | [Crunchbase](https://www.crunchbase.com/organization/eureka-security)
  - [Endor Labs](https://pangea.cloud/) | [LinkedIn](https://www.linkedin.com/company/endorlabs/insights/) | [Crunchbase](https://www.crunchbase.com/organization/endor-labs)
  - [Entro](https://entro.security) | [LinkedIn](https://www.linkedin.com/company/entro-security/) | [Crunchbase](https://www.crunchbase.com/organization/entro-cf4f)
+ - [Gem Security](https://www.gem.security/) | [LinkedIn](https://www.linkedin.com/company/gemsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/gem-f4a1)
  - [GitGuardian](https://www.gitguardian.com/) | [LinkedIn](https://www.linkedin.com/company/gitguardian/) | [Crunchbase](https://www.crunchbase.com/organization/gitguardian)
  - [Grip Security](https://www.grip.security/) | [LinkedIn](https://www.linkedin.com/company/grip-security/) | [Crunchbase](https://www.crunchbase.com/organization/grip-security)
  - [Hunters](https://www.hunters.security/) | [LinkedIn](https://www.linkedin.com/company/hunters-ai/) | [Crunchbase](https://www.crunchbase.com/organization/hunters-ai)
@@ -67,6 +68,7 @@ Venture-funded companies
  - [Pangea](https://pangea.cloud/) | [Linkedin](https://www.linkedin.com/company/pangea-cyber/) | [Crunchbase](https://www.crunchbase.com/organization/pengea)
  - [Permiso](https://permiso.io/) | [LinkedIn](https://www.linkedin.com/company/permiso-security/) | [Crunchbase](https://www.crunchbase.com/organization/permiso-security)
  - [PingSafe](https://www.pingsafe.com) | [LinkedIn](https://www.linkedin.com/company/pingsafe/) | [Crunchbase](https://www.crunchbase.com/organization/pingsafe)
+ - [Plerion](https://plerion.com) | [LinkedIn](https://www.linkedin.com/company/plerion/) | [Crunchbase](https://www.crunchbase.com/organization/plerion)
  - [Prevasio](https://www.prevasio.io/) | [LinkedIn](https://www.linkedin.com/company/prevasio/) | [Crunchbase](https://www.crunchbase.com/organization/prevasio)
  - [Rapid7](https://www.rapid7.com) | [Linkedin](https://www.linkedin.com/company/rapid7/) | [Crunchbase](https://www.crunchbase.com/organization/rapid7)
  - [Runecast](https://www.runecast.com/) | [LinkedIn](https://www.linkedin.com/company/runecast/) | [Crunchbase](https://www.crunchbase.com/organization/runecast)
@@ -103,6 +105,7 @@ Venture-funded companies
  - [Laminar](https://laminarsecurity.com) | [LinkedIn](https://www.linkedin.com/company/laminar-security/) | [Crunchbase](https://www.crunchbase.com/organization/laminar-d49d) --> [acquired by Rubrik](https://www.rubrik.com/blog/company/23/8/rubrik-and-laminar-together-securing-the-worlds-data)
  - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
  - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
+ - Raftt(https://www.raftt.io/) | [LinkedIn](https://www.linkedin.com/company/raftt/) | [Crunchbase](https://www.crunchbase.com/organization/raftt) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-raftt)
 
 
 ## Managed Service Providers
@@ -155,6 +158,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [Gapps](https://github.com/bmarsh9/gapps)
 - [Greenbone OpenVAS Scanner](https://github.com/greenbone/openvas-scanner)
 - [KubeArmor](https://github.com/kubearmor/KubeArmor)
+- [KubeScape](https://github.com/kubescape/kubescape)
 - [Magpie](https://github.com/openraven/magpie)
 - [Prowler](https://github.com/prowler-cloud/prowler)
 - [Resoto](https://github.com/someengineering/resoto)

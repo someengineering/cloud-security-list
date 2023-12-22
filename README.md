@@ -40,6 +40,7 @@ Venture-funded companies
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Avalor](https://www.avalor.io) | [LinkedIn](https://www.linkedin.com/company/avalorsec/) | [Crunchbase](https://www.crunchbase.com/organization/avalor-72e5)
  - [Bright Security](https://brightsec.com/) | [LinkedIn](https://www.linkedin.com/company/neuralegion/) | [Crunchbase](https://www.crunchbase.com/organization/neuralegion)
+ - [Coalfire](https://www.coalfire.com) | [LinkedIn](https://www.linkedin.com/company/coalfire/) | [Crunchbase](https://www.crunchbase.com/organization/coalfire-system)
  - [Cyera](https://www.cyera.io/) | [LinkedIn](https://www.linkedin.com/company/cyera/) | [Crunchbase](https://www.crunchbase.com/organization/cyera)
  - [Cyscale](https://cyscale.com) | [LinkedIn](https://www.linkedin.com/company/cyscale/) | [Crunchbase](https://www.crunchbase.com/organization/cyscale)
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)

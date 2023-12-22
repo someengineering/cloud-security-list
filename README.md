@@ -112,6 +112,7 @@ Venture-funded companies
 - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
 - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
 - [Raftt](https://www.raftt.io/) | [LinkedIn](https://www.linkedin.com/company/raftt/) | [Crunchbase](https://www.crunchbase.com/organization/raftt) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-raftt)
+- [Spera](https://www.spera.security/) | [LinkedIn](https://www.linkedin.com/company/spera-security/) | [Crunchbase](https://www.crunchbase.com/organization/spera-fbce) --> [acquired by Okta](https://www.okta.com/blog/2023/12/okta-acquisition-advances-identity-powered-security/)
 
 
 ## Managed Service Providers

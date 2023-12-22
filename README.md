@@ -44,6 +44,7 @@ Venture-funded companies
  - [Cyware](https://cyware.com/) | [LinkedIn](https://www.linkedin.com/company/cyware/) | [Crunchbase](https://www.crunchbase.com/organization/cyware)
  - [Darktrace](https://darktrace.com/) | [LinkedIn](https://www.linkedin.com/company/darktrace/) | [Crunchbase](https://www.crunchbase.com/organization/darktrace)
  - [Deepfence](https://www.deepfence.io/) | [LinkedIn](https://www.linkedin.com/company/deepfence-inc) | [Crunchbase](https://www.crunchbase.com/organization/deepfence)
+ - [Deepsource](https://deepsource.com) | [LinkedIn](https://www.linkedin.com/company/deepsourcelabs) | [Crunchbase](https://www.crunchbase.com/organization/deepsource)
  - [Eureka Security](https://www.eureka.security/) | [LinkedIn](https://www.linkedin.com/company/eureka-security/) | [Crunchbase](https://www.crunchbase.com/organization/eureka-security)
  - [Endor Labs](https://pangea.cloud/) | [LinkedIn](https://www.linkedin.com/company/endorlabs/insights/) | [Crunchbase](https://www.crunchbase.com/organization/endor-labs)
  - [Entro](https://entro.security) | [LinkedIn](https://www.linkedin.com/company/entro-security/) | [Crunchbase](https://www.crunchbase.com/organization/entro-cf4f)

@@ -119,6 +119,10 @@ Venture-funded companies
 
 -  [Red Canary](https://redcanary.com/) | [LinkedIn](https://www.linkedin.com/company/redcanary/) | [Crunchbase](https://www.crunchbase.com/organization/red-canary)
 
+Angel-funded companies
+ - [Kloudle](https://kloudle.com) | [LinkedIn](https://www.linkedin.com/company/kloudle/) | [Crunchbase](https://www.crunchbase.com/organization/kloudle)
+
+
 ## Cloud Platforms
 Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 

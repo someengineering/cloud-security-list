@@ -114,6 +114,28 @@ Venture-funded companies
 - [Raftt](https://www.raftt.io/) | [LinkedIn](https://www.linkedin.com/company/raftt/) | [Crunchbase](https://www.crunchbase.com/organization/raftt) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-raftt)
 - [Spera](https://www.spera.security/) | [LinkedIn](https://www.linkedin.com/company/spera-security/) | [Crunchbase](https://www.crunchbase.com/organization/spera-fbce) --> [acquired by Okta](https://www.okta.com/blog/2023/12/okta-acquisition-advances-identity-powered-security/)
 
+### Acquisitions by Vendor
+
+#### Palo Alto Networks
+Ordered by date (descending)
+
+- Talon, $825M - December 2023
+- Dig Security, $350M - December 2023
+- Cider Security, $198M - December 2022
+- Expanse, $797M - December 2020
+- Crypsis, $228M - September 2020
+- Cloudgenix, $403M - April 2020
+- Aporeto, $144M - December 2019
+- Twistlock, $378M - July 2019
+- Demisto, $474M - March 2019
+- RedLock, $158M - October 2018
+- Secdo, $83M - April 2018
+- Evident.io, $293M - March 2018
+- Cyvera, $178M - April 2014
+- Bridgecrew, $157M - March 2021
+- Aporeto, $144M - December 2019
+- Lightcyber, $103M - February 2017
+
 
 ## Managed Service Providers
 

@@ -176,6 +176,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 
 # Open Source Projects
 - [Altimeter](https://github.com/tableau/altimeter)
+- [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 - [Cartography](https://github.com/lyft/cartography)
 - [Checkov](https://github.com/bridgecrewio/checkov)

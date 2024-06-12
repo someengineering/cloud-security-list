@@ -1,3 +1,5 @@
+# Cloud Security List
+
 Cloud security engineers are notoriously overworked and under-resourced. This curated list has links to tools, frameworks and resources to make their lives easier.
 
 # Threat Research
@@ -9,6 +11,8 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
 - [Rapid7 Research](https://www.rapid7.com/research/)
 - [Team Nautilus by Aqua Security](https://www.aquasec.com/research/)
 - [Unit 42 by Palo Alto Networks](https://unit42.paloaltonetworks.com/)
+- [ThreatLabz by Zscaler](https://www.zscaler.com/threatlabz/threat-map-dashboard)
+- [Vedre Labs by Forescout](https://www.forescout.com/research-labs/)
 
 # Security Vendors
 
@@ -143,9 +147,16 @@ Ordered by date (descending)
 
 Ordered by data (descending) 
 
-- Airgap Networks
-- Avalor
+- Airgap Networks (https://airgap.io/)
+- Avalor (https://www.avalor.io/)
+- Canonic Security (https://www.canonic.security/)
+- Trustdome
+- Smokescreen
+- Shiftright 
+- Appsulate
+- Edgewise Networks
 
+ 
 ## Managed Service Providers
 
 - [Red Canary](https://redcanary.com/) | [LinkedIn](https://www.linkedin.com/company/redcanary/) | [Crunchbase](https://www.crunchbase.com/organization/red-canary)
@@ -253,6 +264,8 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 # Security Podcasts
 
 - [Google Cloud Security Podcast](https://cloud.withgoogle.com/cloudsecurity/podcast/)
+- [Security Podcasts Currated from Redditt](https://jjesse.github.io/security_podcasts/)
+
   
 # Security Frameworks
 
@@ -266,6 +279,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 # Cyber Insurance
 
 - [Anzen](https://www.anzen.com/) | [LinkedIn](https://www.linkedin.com/company/goanzen/)
+- [Acrisure](https://www.acrisure.com/cyber-insurance)
 
 # Conferences
 
@@ -275,3 +289,4 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - [fwd:cloudsec](https://fwdcloudsec.org)
 - [RSAC](https://www.rsaconference.com/)
 - [Sector](https://www.blackhat.com/sector/)
+- [GRRCon](https://grrcon.com/)

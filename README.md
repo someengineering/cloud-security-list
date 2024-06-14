@@ -14,9 +14,9 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
 - [ThreatLabz by Zscaler](https://www.zscaler.com/threatlabz/threat-map-dashboard)
 - [Vedre Labs by Forescout](https://www.forescout.com/research-labs/)
 
-# Security Vendors
+## Security Vendors
 
-## Publicly listed vendors
+### Publicly listed vendors
 
 These are vendors with publicly traded stocks. The links lead to a vendor's website, LinkedIn company page and the stock price on [Yahoo! Finance](https://finance.yahoo.com/).
 
@@ -33,7 +33,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
 - [Varonis](https://www.varonis.com/) | [LinkedIn](https://www.linkedin.com/company/varonis/) | [VRNS](https://finance.yahoo.com/quote/VRNS/)
 - [Zscaler](https://www.zscaler.com/) | [LinkedIn](https://www.linkedin.com/company/zscaler/) | [ZS](https://finance.yahoo.com/quote/ZS)
 
-## Private Vendors
+### Private Vendors
 
 Venture-funded companies
 
@@ -106,7 +106,7 @@ Venture-funded companies
 - [Wazuh](https://wazuh.com) | [LinkedIn](https://www.linkedin.com/company/wazuh/) | [Crunchbase](https://www.crunchbase.com/organization/wazuh)
 - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
 
-## Acquisitions
+### Acquisitions
 
 - - [Avalor](https://www.avalor.io) | [LinkedIn](https://www.linkedin.com/company/avalorsec/) | [Crunchbase](https://www.crunchbase.com/organization/avalor-72e5) --> [aquired by Zscaler]
 - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
@@ -121,6 +121,10 @@ Venture-funded companies
 - [Spera](https://www.spera.security/) | [LinkedIn](https://www.linkedin.com/company/spera-security/) | [Crunchbase](https://www.crunchbase.com/organization/spera-fbce) --> [acquired by Okta](https://www.okta.com/blog/2023/12/okta-acquisition-advances-identity-powered-security/)
 
 ### Acquisitions by Vendor
+
+#### Cisco
+
+Ordrered by date (descending) 
 
 #### Palo Alto Networks
 

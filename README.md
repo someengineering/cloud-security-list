@@ -104,11 +104,15 @@ Venture-funded companies
 
 ## Acquisitions
 
+- Accurics | [LinkedIn](https://www.linkedin.com/company/accurics/) | [Crunchbase](https://www.crunchbase.com/organization/accurics) --> [acquired by Tenable](https://www.tenable.com/press-releases/tenable-completes-acquisition-of-accurics)
 - [Bionic](https://bionic.ai/) | [LinkedIn](https://www.linkedin.com/company/bionicai/) | [Crunchbase](https://www.crunchbase.com/organization/bionic-9498) --> [acquired by Crowdstrike](https://www.crowdstrike.com/press-releases/crowdstrike-to-acquire-bionic-to-extend-cloud-security-leadership/)
+- [Bit Discovery](https://bitdiscovery.com/) | [LinkedIn](https://www.linkedin.com/company/bitdiscovery/) | [Crunchbase](https://www.crunchbase.com/organization/bit-discovery) --> [acquired by Tenable](https://www.tenable.com/press-releases/tenable-completes-acquisition-of-bit-discovery)
 - [Cider Security](https://www.cidersecurity.io/) | [LinkedIn](https://www.linkedin.com/company/cider-security/) | [Crunchbase](https://www.crunchbase.com/organization/cider-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/company/press/2022/palo-alto-networks-completes-acquisition-of-cider-security)
+- [Cymptom] | [LinkedIn](https://www.linkedin.com/company/cymptom/) | [Crunchbase](https://www.crunchbase.com/organization/cymptom)--> [acquired by Tenable](https://www.tenable.com/blog/tenables-acquisition-of-cymptom-an-attack-path-informed-approach-to-cybersecurity)
 - [Dig Security](https://www.dig.security) | [LinkedIn](https://www.linkedin.com/company/dig-security/about/) | [Crunchbase](https://www.crunchbase.com/organization/dig-security) --> [acquired by Palo Alto Networks](https://www.paloaltonetworks.com/blog/2023/10/palo-alto-networks-dig-security/)
 - [Ermetic](https://ermetic.com/) | [LinkedIn](https://www.linkedin.com/company/ermetic/) | [Crunchbase](https://www.crunchbase.com/organization/ermetic) --> [acquired by Tenable](https://www.tenable.com/press-releases/tenable-completes-acquisition-of-ermetic)
-- [Gem Security](https://www.gem.security/) | [LinkedIn](https://www.linkedin.com/company/gemsecurity/) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-gem-security-to-reinvent-threat-detection-in-the-cloud)
+- Flawcheck | [Crunchbase](https://www.crunchbase.com/organization/flawcheck) --> [acquired by Tenable](https://www.tenable.com/press-releases/tenable-network-security-acquires-container-security-company-flawcheck)
+- [Gem Security](https://www.gem.security/) | [LinkedIn](https://www.linkedin.com/company/gemsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/gem-f4a1) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-gem-security-to-reinvent-threat-detection-in-the-cloud)
 - [Isovalent](https://isovalent.com) | [LinkedIn](https://www.linkedin.com/company/isovalent/) | [Crunchbase](https://www.crunchbase.com/organization/covalent-io) --> [acquired by Cisco](https://investor.cisco.com/news/news-details/2023/Cisco-to-Acquire-Isovalent-to-Define-the-Future-of-Multicloud-Networking-and-Security/default.aspx)
 - [Laminar](https://laminarsecurity.com) | [LinkedIn](https://www.linkedin.com/company/laminar-security/) | [Crunchbase](https://www.crunchbase.com/organization/laminar-d49d) --> [acquired by Rubrik](https://www.rubrik.com/blog/company/23/8/rubrik-and-laminar-together-securing-the-worlds-data)
 - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
@@ -138,6 +142,19 @@ Ordered by date (descending)
 - Aporeto, $144M - December 2019
 - Lightcyber, $103M - February 2017
 
+#### Tenable
+Ordered by date (descending)
+- FlawCheck, undisclosed - Oct 2016
+- Accurics, $160M - Sept 2021
+- Cymptom, undisclosed - Feb 2022
+- Bit Discovery, $44.5M - April 2022
+- Ermetic, $265M - Sept 2023
+
+
+#### Wiz
+Ordered by date (descending)
+- Rafft, undisclosed - December 2023
+- Gem Security, undisclosed - April 2024
 
 ## Managed Service Providers
 

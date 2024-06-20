@@ -118,6 +118,7 @@ Venture-funded companies
 - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
 - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
 - [Raftt](https://www.raftt.io/) | [LinkedIn](https://www.linkedin.com/company/raftt/) | [Crunchbase](https://www.crunchbase.com/organization/raftt) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-raftt)
+- Sinefa | [LinkedIn](https://www.linkedin.com/company/sinefa/) | [Crunchbase](https://www.crunchbase.com/organization/sinefa) --> [acquired by Palo Alto Networks](https://www.marketscreener.com/quote/stock/PALO-ALTO-NETWORKS-INC-11067980/news/Palo-Alto-Networks-Inc-completed-the-acquisition-of-Sinefa-Inc-for-27-million-33606776/)
 - [Spera](https://www.spera.security/) | [LinkedIn](https://www.linkedin.com/company/spera-security/) | [Crunchbase](https://www.crunchbase.com/organization/spera-fbce) --> [acquired by Okta](https://www.okta.com/blog/2023/12/okta-acquisition-advances-identity-powered-security/)
 - [Zycada Networks](https://www.zycada.com/) | [LinkedIn](https://www.linkedin.com/company/zycada-networks/) | [Crunchbase](https://www.crunchbase.com/organization/zycada-networks) --> [acquired by Palo Alto Networks](https://www.linkedin.com/posts/subbuvaradarajan_palo-alto-networks-raises-the-bar-delivering-activity-7191854116598435841-v5Rz/)
 
@@ -133,6 +134,7 @@ Ordered by date (descending)
 - Expanse, $797M - Dec 2020
 - Crypsis, $228M - Sept 2020
 - Cloudgenix, $403M - April 2020
+- Sinefa, $44M - Nov 2020
 - Aporeto, $144M - Dec 2019
 - Twistlock, $378M - July 2019
 - Demisto, $474M - March 2019

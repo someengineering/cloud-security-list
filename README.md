@@ -119,42 +119,46 @@ Venture-funded companies
 - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
 - [Raftt](https://www.raftt.io/) | [LinkedIn](https://www.linkedin.com/company/raftt/) | [Crunchbase](https://www.crunchbase.com/organization/raftt) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-raftt)
 - [Spera](https://www.spera.security/) | [LinkedIn](https://www.linkedin.com/company/spera-security/) | [Crunchbase](https://www.crunchbase.com/organization/spera-fbce) --> [acquired by Okta](https://www.okta.com/blog/2023/12/okta-acquisition-advances-identity-powered-security/)
+- [Zycada Networks](https://www.zycada.com/) | [LinkedIn](https://www.linkedin.com/company/zycada-networks/) | [Crunchbase](https://www.crunchbase.com/organization/zycada-networks) --> [acquired by Palo Alto Networks](https://www.linkedin.com/posts/subbuvaradarajan_palo-alto-networks-raises-the-bar-delivering-activity-7191854116598435841-v5Rz/)
 
 ### Acquisitions by Vendor
 
 #### Palo Alto Networks
 Ordered by date (descending)
 
-- Talon, $825M - December 2023
-- Dig Security, $350M - December 2023
-- Cider Security, $198M - December 2022
-- Expanse, $797M - December 2020
-- Crypsis, $228M - September 2020
+- Talon, $825M - Dec 2023
+- Dig Security, $350M - Dec 2023
+- Zycada Networks, undisclosed - April 2023
+- Cider Security, $198M - Dec 2022
+- Expanse, $797M - Dec 2020
+- Crypsis, $228M - Sept 2020
 - Cloudgenix, $403M - April 2020
-- Aporeto, $144M - December 2019
+- Aporeto, $144M - Dec 2019
 - Twistlock, $378M - July 2019
 - Demisto, $474M - March 2019
-- RedLock, $158M - October 2018
+- RedLock, $158M - Oct 2018
 - Secdo, $83M - April 2018
 - Evident.io, $293M - March 2018
 - Cyvera, $178M - April 2014
 - Bridgecrew, $157M - March 2021
-- Aporeto, $144M - December 2019
-- Lightcyber, $103M - February 2017
+- Aporeto, $144M - Dec 2019
+- Lightcyber, $103M - Feb 2017
+
 
 #### Tenable
 Ordered by date (descending)
-- FlawCheck, undisclosed - Oct 2016
-- Accurics, $160M - Sept 2021
-- Cymptom, undisclosed - Feb 2022
-- Bit Discovery, $44.5M - April 2022
 - Ermetic, $265M - Sept 2023
+- Bit Discovery, $44.5M - April 2022
+- Cymptom, undisclosed - Feb 2022
+- Accurics, $160M - Sept 2021
+- FlawCheck, undisclosed - Oct 2016
 
 
 #### Wiz
 Ordered by date (descending)
-- Rafft, undisclosed - December 2023
 - Gem Security, undisclosed - April 2024
+- Rafft, undisclosed - December 2023
+
 
 ## Managed Service Providers
 

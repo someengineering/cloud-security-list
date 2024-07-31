@@ -146,6 +146,13 @@ Ordered by date (descending)
 - Aporeto, $144M - Dec 2019
 - Lightcyber, $103M - Feb 2017
 
+#### Datadog
+includes only security-related acquisitions
+Ordered by date (descending)
+- Sqreen - February 2021 [press release](https://www.datadoghq.com/about/latest-news/press-releases/datadog-signs-definitive-agreement-to-acquire-sqreen/)
+- Seekret - April 2022 [press release](https://www.datadoghq.com/about/latest-news/press-releases/datadog-acquires-seekret-to-make-api-observability-accessible/)
+- Hdiv Security - May 2022 [press release](https://investors.datadoghq.com/news-releases/news-release-details/datadog-signs-definitive-agreement-acquire-hdiv-security)
+
 
 #### Tenable
 Ordered by date (descending)

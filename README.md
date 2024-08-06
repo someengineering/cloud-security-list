@@ -17,17 +17,23 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
 These are vendors with publicly traded stocks. The links lead to a vendor's website, LinkedIn company page and the stock price on [Yahoo! Finance](https://finance.yahoo.com/). 
 
  - [Check Point](https://www.checkpoint.com/) | [LinkedIn](https://www.linkedin.com/company/check-point-software-technologies/about/) | [CHKP](https://finance.yahoo.com/quote/CHKP/)
+ - [CloudFlare](https://www.cloudflare.com] | [LinkedIn](https://www.linkedin.com/company/cloudflare/) | [NET](https://finance.yahoo.com/quote/NET/)
  - [CrowdStrike](https://www.crowdstrike.com/) | [LinkedIn](https://www.linkedin.com/company/crowdstrike/) | [CRWD](https://finance.yahoo.com/quote/CRWD)
+ - [CyberArk](https://www.cyberark.com) | [LinkedIn](https://www.linkedin.com/company/cyber-ark-software/) | [CYBR](https://finance.yahoo.com/quote/CYBR/) 
  - [Datadog](https://www.datadoghq.com/) | [LinkedIn](https://www.linkedin.com/company/datadog/about/) | [DDOG](https://finance.yahoo.com/quote/ddog)
- - [HashiCorp](https://www.hashicorp.com) | [LinkedIn](https://www.linkedin.com/company/hashicorp/) | [HCP](https://finance.yahoo.com/quote/HCP)
+ - [Fortinet](https://www.fortinet.com) | [LinkedIn](https://www.linkedin.com/company/fortinet/) | [FTNT](https://finance.yahoo.com/quote/FTNT/)
  - [Palo Alto Networks](https://www.paloaltonetworks.com/) | [LinkedIn](https://www.linkedin.com/company/palo-alto-networks) | [PANW](https://finance.yahoo.com/quote/PANW)
  - [Qualys](https://www.qualys.com/) | [LinkedIn](https://www.linkedin.com/company/qualys) | [QLYS](https://finance.yahoo.com/quote/QLYS)
  - [Radware](https://www.radware.com/) | [LinkedIn](https://www.linkedin.com/company/radware/about/) | [RDWR](https://finance.yahoo.com/quote/RDWR)
  - [SentinelOne](https://www.sentinelone.com/) | [LinkedIn](https://www.linkedin.com/company/sentinelone) | [S](https://finance.yahoo.com/quote/S)
- - [Splunk](https://www.splunk.com/) | [LinkedIn](https://www.linkedin.com/company/splunk/) | [SPLK](https://finance.yahoo.com/quote/SPLK)
  - [Tenable](https://www.tenable.com/) | [LinkedIn](https://www.linkedin.com/company/tenableinc) | [TENB](https://finance.yahoo.com/quote/TENB)
  - [Varonis](https://www.varonis.com/) | [LinkedIn](https://www.linkedin.com/company/varonis/) | [VRNS](https://finance.yahoo.com/quote/VRNS/)
  - [Zscaler](https://www.zscaler.com/) | [LinkedIn](https://www.linkedin.com/company/zscaler/) | [ZS](https://finance.yahoo.com/quote/ZS)
+
+### formerly listed
+ - [HashiCorp](https://www.hashicorp.com) | [LinkedIn](https://www.linkedin.com/company/hashicorp/) | [HCP](https://finance.yahoo.com/quote/HCP)
+ - [Splunk](https://www.splunk.com/) | [LinkedIn](https://www.linkedin.com/company/splunk/) | [SPLK](https://finance.yahoo.com/quote/SPLK)
+
 
 ## Private Vendors
 Venture-funded companies

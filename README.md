@@ -17,6 +17,7 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
 These are vendors with publicly traded stocks. The links lead to a vendor's website, LinkedIn company page and the stock price on [Yahoo! Finance](https://finance.yahoo.com/). 
 
  - [Check Point](https://www.checkpoint.com/) | [LinkedIn](https://www.linkedin.com/company/check-point-software-technologies/about/) | [CHKP](https://finance.yahoo.com/quote/CHKP/)
+ - [Cisco](https://www-cloud.cisco.com/site/us/en/products/security/index.html) | [LinkedIn](https://www.linkedin.com/company/cisco/) | [CSCO](https://finance.yahoo.com/quote/CSCO/)
  - [CloudFlare](https://www.cloudflare.com) | [LinkedIn](https://www.linkedin.com/company/cloudflare/) | [NET](https://finance.yahoo.com/quote/NET/)
  - [CrowdStrike](https://www.crowdstrike.com/) | [LinkedIn](https://www.linkedin.com/company/crowdstrike/) | [CRWD](https://finance.yahoo.com/quote/CRWD)
  - [CyberArk](https://www.cyberark.com) | [LinkedIn](https://www.linkedin.com/company/cyber-ark-software/) | [CYBR](https://finance.yahoo.com/quote/CYBR/) 

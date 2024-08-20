@@ -2,6 +2,7 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
 
 # Threat Research 
  - [Cloud Security Alliance Research](https://cloudsecurityalliance.org/research/) 
+ - [Datadog Security Labs](https://securitylabs.datadoghq.com/)
  - [Google Project Zero](https://googleprojectzero.blogspot.com/)
  - [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc)
  - [Orca Research Pod](https://orca.security/about/orca-research-pod/) 

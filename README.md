@@ -251,6 +251,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - CNAPP - Cloud-native Application Protection Platform
 - CSPM - Cloud Security Posture Management
 - CWPP - Cloud Workload Protection Platform
+- CTEM - Continuous Threat Exposure Management 
 - DSPM - Data Security Posture Management
 - EDR - Endpoint Detection and Response 
 - GRC - Governance, Risk and Compliance

@@ -48,6 +48,7 @@ Venture-funded companies
  - [Astrix](https://astrix.security) | [LinkedIn](https://www.linkedin.com/company/astrix-security/) | [Crunchbase](https://www.crunchbase.com/organization/astrix-security)
  - [Avalor](https://www.avalor.io) | [LinkedIn](https://www.linkedin.com/company/avalorsec/) | [Crunchbase](https://www.crunchbase.com/organization/avalor-72e5)
  - [Bright Security](https://brightsec.com/) | [LinkedIn](https://www.linkedin.com/company/neuralegion/) | [Crunchbase](https://www.crunchbase.com/organization/neuralegion)
+ - [Clutch](https://www.clutch.security/) | [LinkedIn](https://www.linkedin.com/company/clutch-security/) | [Crunchbase](https://www.crunchbase.com/organization/clutch-security)
  - [Coalfire](https://www.coalfire.com) | [LinkedIn](https://www.linkedin.com/company/coalfire/) | [Crunchbase](https://www.crunchbase.com/organization/coalfire-system)
  - [Curity](https://curity.io/) | [LinkedIn](https://www.linkedin.com/company/curity/) | [Crunchbase](https://www.crunchbase.com/organization/curity)
  - [Cyera](https://www.cyera.io/) | [LinkedIn](https://www.linkedin.com/company/cyera/) | [Crunchbase](https://www.crunchbase.com/organization/cyera)
@@ -73,6 +74,7 @@ Venture-funded companies
  - [Netwrix](https://www.netwrix.com/) | [LinkedIn](https://www.linkedin.com/company/netwrix-corporation/) | [Crunchbase](https://www.crunchbase.com/organization/netwrix)
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
+ - [OASIS Security](https://www.oasis.security/) | [LinkedIn](https://www.linkedin.com/company/non-human-identity-management-oasis/) | [Crunchbase](https://www.crunchbase.com/organization/oasis-security-ltd)
  - [OpenRaven](https://www.openraven.com) | [Linkedin](https://www.linkedin.com/company/open-raven/) | [Crunchbase](https://www.crunchbase.com/organization/open-raven) 
  - [Orca Security](https://orca.security/) | [LinkedIn](https://www.linkedin.com/company/orca-security/) | [Crunchbase](https://www.crunchbase.com/organization/orca-security)
  - [OpsHelm](https://www.opshelm.com/) | [LinkedIn](https://www.linkedin.com/company/opshelm/) | [Crunchbase](https://www.crunchbase.com/organization/opshelm)
@@ -108,8 +110,7 @@ Venture-funded companies
  - [Upwind](https://www.upwind.io/) | [LinkedIn](https://www.linkedin.com/company/upwindsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/upwind-security)
  - [Wazuh](https://wazuh.com) | [LinkedIn](https://www.linkedin.com/company/wazuh/) | [Crunchbase](https://www.crunchbase.com/organization/wazuh)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
- - [Clutch](https://www.clutch.security/) | [LinkedIn](https://www.linkedin.com/company/clutch-security/) | [Crunchbase](https://www.crunchbase.com/organization/clutch-security)
- - [OASIS Security](https://www.oasis.security/) | [LinkedIn](https://www.linkedin.com/company/non-human-identity-management-oasis/) | [Crunchbase](https://www.crunchbase.com/organization/oasis-security-ltd)
+
 
 
 ## Acquisitions

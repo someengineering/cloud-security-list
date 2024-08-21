@@ -32,7 +32,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
  - [Varonis](https://www.varonis.com/) | [LinkedIn](https://www.linkedin.com/company/varonis/) | [VRNS](https://finance.yahoo.com/quote/VRNS/)
  - [Zscaler](https://www.zscaler.com/) | [LinkedIn](https://www.linkedin.com/company/zscaler/) | [ZS](https://finance.yahoo.com/quote/ZS)
 
-### formerly listed
+### Formerly listed
  - [HashiCorp](https://www.hashicorp.com) | [LinkedIn](https://www.linkedin.com/company/hashicorp/) | [HCP](https://finance.yahoo.com/quote/HCP)
  - [Splunk](https://www.splunk.com/) | [LinkedIn](https://www.linkedin.com/company/splunk/) | [SPLK](https://finance.yahoo.com/quote/SPLK)
 
@@ -260,6 +260,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - EDR - Endpoint Detection and Response 
 - GRC - Governance, Risk and Compliance
 - IGA - Identity Governance Administration
+- ITDR - Identity Threat Detection and Response
 - MDR - Managed Detection and Response
 - PAM - Privileged Access Management
 - SIEM - Security Information and Event Management

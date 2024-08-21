@@ -262,6 +262,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - GRC - Governance, Risk and Compliance
 - IGA - Identity Governance Administration
 - ITDR - Identity Threat Detection and Response
+- KSPM - Kubernetes Security Posture Management
 - MDR - Managed Detection and Response
 - PAM - Privileged Access Management
 - SIEM - Security Information and Event Management

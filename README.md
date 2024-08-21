@@ -246,6 +246,7 @@ Native security products offered by the major cloud platforms (AWS, GCP, Azure)
 - ASPM - Application Security Posture Management
 - CAASM - Cyber Asset Attack Surface Management
 - CASB - Cloud Access Security Brokers
+- CCO - Corporate Compliance and Oversight
 - CDR - Cloud Detection and Response
 - CIEM - Cloud Infrastructure Entitlement Management
 - CNAPP - Cloud-native Application Protection Platform

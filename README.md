@@ -108,7 +108,9 @@ Venture-funded companies
  - [Upwind](https://www.upwind.io/) | [LinkedIn](https://www.linkedin.com/company/upwindsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/upwind-security)
  - [Wazuh](https://wazuh.com) | [LinkedIn](https://www.linkedin.com/company/wazuh/) | [Crunchbase](https://www.crunchbase.com/organization/wazuh)
  - [Wiz](https://www.wiz.io/) | [LinkedIn](https://www.linkedin.com/company/wizsecurity/) | [Crunchbase](https://www.crunchbase.com/organization/wiz-inc)
-   
+ - [Clutch](https://www.clutch.security/) | [LinkedIn](https://www.linkedin.com/company/clutch-security/) | [Crunchbase](https://www.crunchbase.com/organization/clutch-security)
+ - [OASIS Security](https://www.oasis.security/) | [LinkedIn](https://www.linkedin.com/company/non-human-identity-management-oasis/) | [Crunchbase](https://www.crunchbase.com/organization/oasis-security-ltd)
+
 
 ## Acquisitions
 

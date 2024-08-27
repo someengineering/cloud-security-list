@@ -130,6 +130,7 @@ Venture-funded companies
 - [Lightspin](https://www.lightspin.io/) | [LinkedIn](https://www.linkedin.com/company/lightspin) | [Crunchbase](https://www.crunchbase.com/organization/lightspin-technologies-ltd) --> [acquired by Cisco](https://blogs.cisco.com/news/blogs-cisco-com-news-cisco-announces-its-intent-to-acquire-cloud-security-software-company)
 - [Mandiant](https://www.mandiant.com) | [LinkedIn](https://www.linkedin.com/company/mandiant/) | [Crunchbase](https://www.crunchbase.com/organization/mandiant) --> [acquired by Google](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant)
 - [Raftt](https://www.raftt.io/) | [LinkedIn](https://www.linkedin.com/company/raftt/) | [Crunchbase](https://www.crunchbase.com/organization/raftt) --> [acquired by Wiz](https://www.wiz.io/blog/wiz-acquires-raftt)
+- [Robust Intelligence] | [LinkedIn](https://www.linkedin.com/company/robust-intelligence/) | [Crunchbase](https://www.crunchbase.com/organization/robust-intelligence) --> [acquired by Cisco](https://www.linkedin.com/company/robust-intelligence/)
 - Sinefa | [LinkedIn](https://www.linkedin.com/company/sinefa/) | [Crunchbase](https://www.crunchbase.com/organization/sinefa) --> [acquired by Palo Alto Networks](https://www.marketscreener.com/quote/stock/PALO-ALTO-NETWORKS-INC-11067980/news/Palo-Alto-Networks-Inc-completed-the-acquisition-of-Sinefa-Inc-for-27-million-33606776/)
 - [Spera](https://www.spera.security/) | [LinkedIn](https://www.linkedin.com/company/spera-security/) | [Crunchbase](https://www.crunchbase.com/organization/spera-fbce) --> [acquired by Okta](https://www.okta.com/blog/2023/12/okta-acquisition-advances-identity-powered-security/)
 - [Zycada Networks](https://www.zycada.com/) | [LinkedIn](https://www.linkedin.com/company/zycada-networks/) | [Crunchbase](https://www.crunchbase.com/organization/zycada-networks) --> [acquired by Palo Alto Networks](https://www.linkedin.com/posts/subbuvaradarajan_palo-alto-networks-raises-the-bar-delivering-activity-7191854116598435841-v5Rz/)
@@ -157,6 +158,12 @@ Ordered by date (descending)
 - Bridgecrew, $157M - March 2021
 - Aporeto, $144M - Dec 2019
 - Lightcyber, $103M - Feb 2017
+
+#### Cisco
+- Deep Factor - August 2024
+- Isovalent - December 2023 [blog post](https://blogs.cisco.com/news/defining-the-future-of-multicloud-networking-and-security-cisco-announces-intent-to-acquire-isovalent)
+- Oort - July 2023 [blog](https://blogs.cisco.com/news/cisco-announces-intent-to-acquire-oort)
+- Robust Intelligence - August 2024 [blog post](https://www.crunchbase.com/organization/robust-intelligence)
 
 #### Datadog
 includes only security-related acquisitions

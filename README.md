@@ -11,6 +11,7 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
  - [Sysdig Threat Research](https://sysdig.com/threat-research/)
  - [Team Nautilus by Aqua Security](https://www.aquasec.com/research/) 
  - [Unit 42 by Palo Alto Networks](https://unit42.paloaltonetworks.com/)
+ - [Wiz Cloud Threat Landscape](https://threats.wiz.io/)
 
 
 # Security Vendors

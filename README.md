@@ -8,6 +8,7 @@ Cloud security engineers are notoriously overworked and under-resourced. This cu
  - [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc)
  - [Orca Research Pod](https://orca.security/about/orca-research-pod/) 
  - [Rapid7 Research](https://www.rapid7.com/research/) 
+ - [Sysdig Threat Research](https://sysdig.com/threat-research/)
  - [Team Nautilus by Aqua Security](https://www.aquasec.com/research/) 
  - [Unit 42 by Palo Alto Networks](https://unit42.paloaltonetworks.com/)
 

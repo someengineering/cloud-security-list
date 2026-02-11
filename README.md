@@ -43,6 +43,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
 ## Private Vendors
 Venture-funded companies
 
+ - [Nulink Security](https://www.nulinksec.com/) | [LinkedIn](https://www.linkedin.com/company/nulinksec) | [Crunchbase](https://www.crunchbase.com/organization/nulink-security)
  - [AccuKnox](https://www.accuknox.com/) | [LinkedIn](https://www.linkedin.com/company/accuknox/) | [Crunchbase](https://www.crunchbase.com/organization/accuknox)
  - [Aikido](https://www.aikido.dev/) | [LinkedIn](https://www.linkedin.com/company/aikido-security/) | [Crunchbase](https://www.crunchbase.com/organization/aikido-security)
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)

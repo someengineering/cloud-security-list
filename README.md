@@ -191,6 +191,9 @@ Ordered by date (descending)
 - Rafft, undisclosed - December 2023
 
 
+### CloudAuditX
+- [CloudAuditX](https://auditor.pyralink.co.uk) — Free multi-framework cloud security scanner for AWS. Audits across ISO 27001, NIST CSF 2.0, CIS, MITRE ATT&CK, STRIDE, and SCF. No credentials required.
+
 ## Managed Service Providers
 
 -  [Red Canary](https://redcanary.com/) | [LinkedIn](https://www.linkedin.com/company/redcanary/) | [Crunchbase](https://www.crunchbase.com/organization/red-canary)
